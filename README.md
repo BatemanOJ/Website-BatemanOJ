@@ -1,3 +1,3 @@
-# Cleanfolio Minimal
+# Portfoli website
 
-A portfolio template built with HTML, CSS, and JavaScript.
+A portfolio built with HTML, CSS, and JavaScript.
